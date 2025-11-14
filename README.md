@@ -36,5 +36,4 @@ Generate insights to support patient flow, placement efficiency, and resource us
 │ ├── insights_summary.md
 │ ├── dashboard_instructions.md
 │
-│
-└── README.md (this file)
+
